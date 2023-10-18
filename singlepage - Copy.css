@@ -1,0 +1,219 @@
+body{
+    min-width: 100vh;
+    width: 100vw;
+    overflow-x: hidden;
+
+}
+
+
+.nav{
+    display: flex;
+    list-style-type: none;
+    gap: 20px;
+    background-color: #f1f1f1;
+    opacity: 10px;
+    padding: 20px;
+    box-shadow: 0px 5px 5px rgba(0 0 0 / 0.2);  
+}
+a{
+    text-decoration: none;
+    color: black;
+    position: relative;
+    left: 300px;
+}
+.button{
+    border-radius: 40px;
+    border: none;
+    padding-left: 10px;
+    padding-right: 10px;
+    position: relative;
+    left: 450px;
+    background-color: rgb(236, 174, 153);
+}
+.text{
+    background-color: rgb(249, 240, 237);
+    height: 300px;
+    position: relative;
+    bottom: 115px;
+}
+.h1{
+    position: relative;
+    left: 100px;
+    top: 30px;
+}
+.b{
+    position: relative;
+    left: 90px;
+    bottom: 100px;
+    padding-right: 30px;
+    border: none;
+    padding-top: 2px;
+}
+.head{
+    text-align: center;
+    position: relative;
+    bottom: 130px;
+}
+.textbox{
+    border: 0px solid black;
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0 0 0 / 0.1);
+
+}
+.textbox1{
+    border: 0px solid black;
+    position: relative;
+    bottom: 20px;
+    left: 60px;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0 0 0 / 0.1);
+
+}
+.textbox2{
+    border: 0px solid black;
+    position: relative;
+    bottom: -10px;
+    left: 100px;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0 0 0 / 0.1);
+
+}
+.textbox3{
+    border: 0px solid black;
+    position: relative;
+    bottom: 880px;
+    left: 1000px;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0 0 0 / 0.1);
+
+}
+.textbox4{
+    border: 0px solid black;
+    position: relative;
+    bottom: 840px;
+    left: 1050px;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0 0 0 / 0.1);
+
+}
+.textbox5{
+    border: 0px solid black;
+    position: relative;
+    bottom: 800px;
+    left: 1000px;
+    width: 25%;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px 5px rgba(0 0 0 / 0.1);
+}
+.heading{
+    text-align: center;
+    position: relative;
+    bottom: 700px;
+}
+.heading2{
+    text-align: center;
+    position: relative;
+    bottom: 500px;
+}
+.heading3{
+    position: relative;
+    bottom: 400px;
+    left: 200px;
+    display: flex;
+    gap: 90px;
+}
+.face10{
+    border: 0px solid black;
+    border-radius: 100px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+    background-color: rgba(249, 217, 206, 0.5);
+}
+.face11{
+    border: 0px solid black;
+    border-radius: 100px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+    background-color: rgba(186, 232, 246, 0.5);
+}
+.face12{
+    border: 0px solid black;
+    border-radius: 100px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+    background-color: rgba(186, 246, 192, 0.5);
+}
+.face13{
+    border: 0px solid black;
+    border-radius: 100px;
+    padding-left: 20px;
+    padding-bottom: 40px;
+    padding-top: 40px;
+    text-align: center;
+    background-color: rgba(237, 247, 194, 0.5);
+}
+.heading4{
+    position: relative;
+    bottom: 250px;
+    left: 100px;
+}
+.test{
+    background-color: rgb(244, 244, 228);
+    height: 300px;
+    position: relative;
+    bottom: 500px;
+}
+.image{
+    position: relative;
+    top: 70px;
+    left: 100px;
+}
+.t{
+    position: relative;
+    left: 600px;
+    bottom: 200px;
+    border: 0px solid black;
+    border-radius: 50px;
+    width: 25%;
+    box-shadow: 0px 5px 5px rgb(0 0 0 / 0.2);
+}
+.te{
+    position: relative;
+    left: 1000px;
+    bottom: 400px;
+    border: 0px solid black;
+    border-radius: 50px;
+    width: 25%;
+    box-shadow: 0px 5px 5px rgb(0 0 0 / 0.2);
+
+}
+.need{
+    position: relative;
+    left: 1000px;
+    bottom: 400px;
+}
+.cream{
+    position: relative;
+    right: 700px;
+    
+}
